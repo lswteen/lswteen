@@ -1,6 +1,6 @@
 # About Me 👋
 
-https://img.shields.io/badge/:badgeContent
+<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=Java&logoColor=White"/>
 
 <!--
 **lswteen/lswteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

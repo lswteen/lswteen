@@ -1,4 +1,6 @@
-# 안녕하세요 반갑습니다. 👋
+# About Me 👋
+
+https://img.shields.io/badge/:badgeContent
 
 <!--
 **lswteen/lswteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

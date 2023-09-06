@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=프로이직러&fontSize=80&animation=fadeIn&fontAlignY=38&desc=X세대%20노후준비%20조만간%20반백살%20앵과장!&descAlignY=51&descAlign=62)
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'> readme 꾸미기 진행중 </p>
 <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  <a href="https://angryfullstack.tistory.com/">
+    <img src="https://img.shields.io/badge/티스토리%20Blog%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  <a href="https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EC%9D%B4%EC%A7%81%EB%9F%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C">
+    <img src="https://img.shields.io/badge/인프런전자책%20:%20막막한%20이직준비%20현실적인%20프로이직러%20개발자%20가이드!!%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
 
